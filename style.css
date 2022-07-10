@@ -1,0 +1,16 @@
+body{
+    background-color: #23404B;
+}
+div,#cards{
+    background-color:#4F5E5A;
+
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+#card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
